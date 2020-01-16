@@ -44,7 +44,6 @@ env:
   - REPO=PX4/pyulog                   # 2019-06-24
   - REPO=PX4/sapog                    # 2019-10-03
   - REPO=PX4/sitl_gazebo              # 2019-10-01 LorenzMeier/sitl_gazebo
-  - REPO=LorenzMeier/sitl_gazebo
   - REPO=PX4/snap_cam                 # 2018-10-11
   - REPO=PX4/uavcan                   # 2019-08-28 UAVCAN/libuavcan
   - REPO=UAVCAN/libuavcan
